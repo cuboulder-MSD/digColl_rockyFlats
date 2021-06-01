@@ -26,28 +26,25 @@ Contributor to the work: [Colorado. Department of Public Health and Environment,
 ### ContributorLink
 URI for the contributor.
 ### Type
-Type terms assigned to the item. Type terms for this collection include:
+Type terms assigned to the item. Type terms for this collection include: [Text](http://purl.org/dc/dcmitype/Text)
 ### TypeLink
 URI for the DCMI Type.
 ### Identifier ARK
 ARK Identifier. [controlled, stable link]
 ### Identifier
-Identifier for the item. Typically the file name. Example:
+Identifier for the item. Typically the file name. Example: narv_rockyFlats_1991_09-12.pdf
 ### Language
-Language of the item.
-
+Language of the items: [English](http://id.loc.gov/vocabulary/iso639-2/eng)
 ### LanguageLink
 URI for the Language, LOC link for the ISO 639-2 vocabulary.
 ### Relation
 Related item, finding aid, material, or resource if the item is related to another item in the collection.
-
 ### RelationLink
-URI or link to the Related item, finding aid, material, or resource.
-
+URI or link to the related item, finding aid, material, or resource.
 ### Rights
-Rights statement for the item.
+This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
 
-Statement in this collection:
+Access condition comes from [rightsstatements.org](https://rightsstatements.org/page/InC-EDU/1.0/?language=en)
 
 ## Resources
 ## Notes
