@@ -4,36 +4,29 @@ The Rocky Flats nuclear weapons plant, about 15 miles northwest of Denver, Color
 ## Metadata
 
 ### Collection Name
-Name of the collection.
-
+Name of the collection: Rocky Flats Collection
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
-
 ### Creator
-Individual(s) or corporate entities that created the work. Common creators seen in the collection include:
-
+Individual(s) or corporate entities that created the work. Common creators seen in the collection include: [EG & G Rocky Flats, Inc., compiler](http://id.loc.gov/authorities/names/no90018414)
 ### CreatorLink
 URI for the Creator. 
 ### Date
-Date the item was created and issued.
+Date the item was created and issued. Dates range from 1991-1992.
 ### Format
-Format of the item, using the vocabulary of the Getty Art & Architectural Thesaurus [(AAT)]((http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: 
-
+Format of the item, using the vocabulary of the [Getty Art & Architectural Thesaurus](http://vocab.getty.edu/aat). Format terms frequently seen in the collection include: [accident reports](http://vocab.getty.edu/page/aat/300027273); [faxes](http://vocab.getty.edu/page/aat/300240262)
 ### FormatLink
 URI for the AAT Format.
 ### Subject
-Library of Congress Subject Headings (LCSH) relevant to the item. Common subject headings include:
-
+Library of Congress Subject Headings (LCSH) relevant to the item. Common subject headings include: [Rocky Flats Plant (U.S.)](http://id.loc.gov/authorities/names/n95063767); [Nuclear weapons plants--Management](http://id.loc.gov/authorities/subjects/sh89000363); [Nuclear weapons industry--Accidents](http://id.loc.gov/authorities/subjects/sh85093133)
 ### SubjectLink
 URI for the LCSH.
 ### Contributor
-Contributor to the work. 
-
+Contributor to the work: [Colorado. Department of Public Health and Environment, former owner](http://id.loc.gov/authorities/names/no94027878)
 ### ContributorLink
 URI for the contributor.
 ### Type
 Type terms assigned to the item. Type terms for this collection include:
-
 ### TypeLink
 URI for the DCMI Type.
 ### Identifier ARK
